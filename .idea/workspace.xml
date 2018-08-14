@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b918cf39-ff01-4b3f-920a-aae498c10c8a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/fonts/flexslider-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/light-box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/css/templatemo-main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default_css/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/css/bootstrap-theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontAwesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/css/fontAwesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/flexslider-icon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/css/fonts/flexslider-icon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/flexslider-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/flexslider-icon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/css/fonts/flexslider-icon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/flexslider-icon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/css/fonts/flexslider-icon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/light-box.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo-main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_css/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/CTF/CTF.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/CTF/CTF0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background_images/1112-04e2ab2c2e10b0e2cb3499daf5ed779d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background_images/background_001/first_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/head_portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/head_portrait.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_muyingxi.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/logo_muyingxi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/about_image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/close.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fifth_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background_images/background_000/fifth_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/first_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background_images/background_000/first_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fourth_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background_images/background_000/fourth_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mini_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/mini_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/next.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/default_images/prev.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/second_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background_images/background_000/second_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/third_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/background_images/background_000/third_bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/datepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/vendor/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/vendor/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-1.11.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/vendor/jquery-1.11.2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/javascript_default/vendor/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,15 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="light-box.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/default_css/css/light-box.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
+            <state relative-caret-position="4600">
               <caret line="200" column="29" selection-start-line="200" selection-start-column="29" selection-end-line="200" selection-end-column="29" />
-              <folding>
-                <element signature="e#1773#1862#2" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +28,8 @@
       <file leaf-file-name="templatemo-main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/default_css/css/templatemo-main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4186">
-              <caret line="419" column="16" lean-forward="true" selection-start-line="419" selection-start-column="16" selection-end-line="419" selection-end-column="16" />
+            <state relative-caret-position="23">
+              <caret line="419" column="16" selection-start-line="419" selection-start-column="16" selection-end-line="419" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -142,10 +82,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2209" />
-    <option name="y" value="56" />
-    <option name="width" value="978" />
-    <option name="height" value="576" />
+    <option name="x" value="56" />
+    <option name="y" value="-8" />
+    <option name="width" value="1318" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -207,32 +147,36 @@
       <option name="presentableId" value="Default" />
       <updated>1532342394475</updated>
       <workItem from="1532342398581" duration="3410000" />
+      <workItem from="1532413175977" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3410000" />
+    <option name="totallyTimeSpent" value="3515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="56" y="-8" width="1318" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22395833" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22350231" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="运行" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32954547" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +186,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/default_css/css/light-box.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4600">
+          <caret line="200" column="29" selection-start-line="200" selection-start-column="29" selection-end-line="200" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/javascript_default/vendor/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default_css/css/templatemo-main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9637">
+          <caret line="419" column="16" lean-forward="true" selection-start-line="419" selection-start-column="16" selection-end-line="419" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/default_css/fonts/fontawesome-webfont.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -297,8 +262,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default_css/css/bootstrap.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -332,11 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default_css/css/light-box.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="4600">
           <caret line="200" column="29" selection-start-line="200" selection-start-column="29" selection-end-line="200" selection-end-column="29" />
-          <folding>
-            <element signature="e#1773#1862#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -344,9 +306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -401,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default_css/css/templatemo-main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4186">
-          <caret line="419" column="16" lean-forward="true" selection-start-line="419" selection-start-column="16" selection-end-line="419" selection-end-column="16" />
+        <state relative-caret-position="23">
+          <caret line="419" column="16" selection-start-line="419" selection-start-column="16" selection-end-line="419" selection-end-column="16" />
         </state>
       </provider>
     </entry>
